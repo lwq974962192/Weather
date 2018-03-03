@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="forecast">预报</string>
+    <string name="air_quality">空气质量</string>
+    <string name="aqi_index">AQI指数</string>
+    <string name="pm25_index">PM2.5指数</string>
+    <string name="suggestion">生活建议</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">test</string>
+</resources>
